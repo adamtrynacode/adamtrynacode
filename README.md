@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm currently a full-time student studying programming and system architecture at the University of Oslo
+- I also work part-time at IT-Help at the University IT-department, where I work with maintenance and development of the ticket system, Request Tracker
 <!--
 **adamtrynacode/adamtrynacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
